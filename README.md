@@ -10,3 +10,14 @@
 ![image](https://github.com/user-attachments/assets/31c12216-891c-474c-99ed-d0a588f19260)
 
 
+Установите зависимости и python.
+-
+- git clone https://github.com/sampovsky/snoser_spider.git
+- cd snoser_spider
+- pip install colored pystyle
+- Запуск : python3 snoser_spider.py
+
+- Связь со мной, и мой телеграмм канал с софтами и разработкой утилит : @spider_rep
+- Если есть вопросы, пишите в телеграмм : @spider7_zip
+
+- Good Luck!
