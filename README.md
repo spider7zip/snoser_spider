@@ -5,6 +5,8 @@
 Сносер запускался на Kali Linux и Termux.
 
 Сносер был проверен, он снёс более 50+ аккаунтов
+
+
 ![image](https://github.com/user-attachments/assets/31c12216-891c-474c-99ed-d0a588f19260)
 
 
