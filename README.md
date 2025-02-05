@@ -24,4 +24,4 @@
 
 - Good Luck!
 
-Мой канал с софтами и программами - t.me/+0XQySH6ETCAyN2Vi
+Мой канал с софтами и программами - [t.me/+0XQySH6ETCAyN2Vi](https://t.me/+0XQySH6ETCAyN2Vi)
