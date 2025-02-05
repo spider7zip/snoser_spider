@@ -19,9 +19,5 @@
 - pip install colored pystyle
 - Запуск : python3 snoser_spider.py
 
-- Связь со мной, и мой телеграмм канал с софтами и разработкой утилит : @spider_rep
-- Если есть вопросы, пишите в телеграмм : @spider7_zip
-
+- Переходник в канал проектов : https://t.me/spider_per
 - Good Luck!
-
-Мой канал с софтами и программами - [t.me/+0XQySH6ETCAyN2Vi](https://t.me/+0XQySH6ETCAyN2Vi)
