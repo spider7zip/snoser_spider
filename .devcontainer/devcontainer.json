@@ -1,0 +1,6 @@
+{https://containers.dev/implementors/json_reference/
+@wixeell
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
