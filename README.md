@@ -1,4 +1,9 @@
 # Приватный сносер для удаления аккаунтов, чатов, ботов и каналов.
+
+БОЛЬШЕ НЕ АКТУАЛЬНО, ТЕПЕРЬ ИСПОЛЬЗУЮТСЯ БОТ ДЛЯ БЫСТРОГО И ЭФФЕКТИВНОГО СНОСА!
+(telegram)
+@spidersave_bot
+@spidersnos_bot
 ![image](https://github.com/user-attachments/assets/d27480c1-912c-4549-bbae-417ebef66bb0)
 
 
