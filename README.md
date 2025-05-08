@@ -6,11 +6,6 @@
 @spidersnos_bot
 
 
-Uploading IMG_2864.MP4…
-
-
-
-
 ![image](https://github.com/user-attachments/assets/d27480c1-912c-4549-bbae-417ebef66bb0)
 
 
