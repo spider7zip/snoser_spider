@@ -29,7 +29,7 @@
 - git clone https://github.com/sampovsky/snoser_spider.git
 - cd snoser_spider
 - pip install colored pystyle
-- Запуск : python3 snoser_spider.py
+- Запуск : python3 snoser_mod.py
 
 - Переходник в канал проектов : https://t.me/+0EmYqyA4P15hOGJi
 - Good Luck!
