@@ -38,7 +38,6 @@ senders = {
 'koporikov.yura@mail.ru':'nJtyfjqYi91j7tk0udNx',
 'zina.podshivalova.92@mail.ru':'u4CL3YxVutmiuTvmTrbu',
 'leha.novitskiy.71@mail.ru':'qQZd1gMqkU906Xk2hgJJ',
-'rimma.aleksandrovicha.72@mail.ru':'biL4m6h0h4xQrDB3PnPp',
 'polina.karaseva.1987@mail.ru':'mxZUqPPTrZHK99jUfPhB',
 'prokhor.sablin.82@mail.ru':'vN7FjmmCmAD0JnQsANyc',
 'kade.kostya@mail.ru':'U0hdXu7y3c1AVeT1Vpn9',
