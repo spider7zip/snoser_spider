@@ -377,8 +377,8 @@ banner = '''
 ███████║██║ ╚████║╚██████╔╝███████║███████╗██║  ██║
 ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
 
-            Creator: @spider7_zip
-              Special for Marty
+            Creator: @moexe
+           Special for GitHub
 
 ╔================================================╗
 ║ [1] СНОС АККАУНТОВ       [2] СНОС КАНАЛОВ      ║
@@ -388,8 +388,8 @@ banner = '''
 ║ [5] Check Mail           [6] Create Mail       ║
 ║       (soon)                   (soon)          ║
 ║                                                ║
-║         Please, dont use for revenge!          ║
-║              t.me/spider_rep                   ║                                  
+║         Платный софт, 300% эффективнее.        ║
+║              t.me/noserpatch                   ║                                  
 ╚================================================╝
 '''
 
@@ -702,3 +702,4 @@ def main():
 if __name__ == "__main__":
     main()
     
+
