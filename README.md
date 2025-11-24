@@ -31,5 +31,5 @@
 - pip install colored pystyle
 - Запуск : python3 snoser_mod.py
 
-- Переходник в канал проектов : https://t.me/+0EmYqyA4P15hOGJi
+- Переходник в канал проектов : https://t.me/noserpatch
 - Good Luck!
