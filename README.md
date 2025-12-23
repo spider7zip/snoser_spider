@@ -3,8 +3,8 @@
 ПЛАТНЫЙ СОФТ С БОТНЕТОМ АККАУНТОВ - 300% ЭФФЕКТИВНЕЕ
 ДЕМОНСТРАЦИЯ (https://youtube.com/shorts/kMdeuHGSmKE)
 
-МОЖНО ПРИОБРЕСТИ У МЕНЕДЖЕРА. ЦЕНА 13$|1000 RUB -> https://t.me/Spidertechh
-ЗЕРКАЛО ПРОЕКТА - https://t.me/revengemirrors
+МОЖНО ПРИОБРЕСТИ У МЕНЕДЖЕРА. ЦЕНА 13$|1000 RUB -> @spiiiiiiderrrrr
+ЗЕРКАЛО ПРОЕКТА - https://t.me/abvgd123098
 
 КТО НЕ РАЗБИРАЕТСЯ В РУЧНОЙ УСТАНОВКЕ, НЕ БЕДА! СПЕЦИАЛЬНО ДЛЯ ВАС ЕСТЬ БОТ, КОТОРЫЙ ВЫПОЛНЯЕТ АБСОЛЮТНО ТАКИЕ ЖЕ ФУНКЦИИ, КУПИТЕ ПОДПИСКУ И ПОЛЬЗУЙТЕСЬ! --> http://t.me/parabdbot
 
@@ -33,6 +33,6 @@
 - pip install colored pystyle
 - Запуск : python3 snoser_mod.py
 
-- Переходник в канал проектов : https://t.me/revengemirrors
+- Переходник в канал проектов : https://t.me/abvgd123098
 - Разработчик в TG - https://t.me/moexe
 - Good Luck!
