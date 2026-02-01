@@ -40,5 +40,4 @@
 - Запуск : python3 snoser_mod.py
 
 - Переходник в канал проектов : https://t.me/abvgd123098
-- Разработчик в TG - https://t.me/moexe
 - Good Luck!
