@@ -1,7 +1,7 @@
 # 🔥 ЛУЧШИЙ СОФТ С БОТНЕТОМ АККАУНТОВ — 300% ЭФФЕКТИВНОСТИ
-Демонстрация работы: https://youtube.com/shorts/kMdeuHGSmKE
-Демонстрация работы: https://www.youtube.com/watch?v=ipCEmg1hhWk&t=125s
-Демонстрация работы: https://www.youtube.com/watch?v=kZnpFRykwiQ
+- Демонстрация работы: https://youtube.com/shorts/kMdeuHGSmKE
+- Демонстрация работы: https://www.youtube.com/watch?v=ipCEmg1hhWk&t=125s
+- Демонстрация работы: https://www.youtube.com/watch?v=kZnpFRykwiQ
 
 🛒 Как приобрести?
 Цена: 13$ | 1000₽/1700₽/5000₽ под каждую ситуацию.
