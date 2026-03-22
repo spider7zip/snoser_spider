@@ -2,6 +2,7 @@
 - Демонстрация работы: https://youtube.com/shorts/kMdeuHGSmKE
 - Демонстрация работы: https://www.youtube.com/watch?v=ipCEmg1hhWk&t=125s
 - Демонстрация работы: https://www.youtube.com/watch?v=kZnpFRykwiQ
+- Снос аккаунтов от Revenge: https://t.me/+CW8d_rm8jo40MWE6
 
 🛒 Как приобрести?
 Цена: 13$ | 1000₽/1700₽/5000₽ под каждую ситуацию.
