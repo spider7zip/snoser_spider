@@ -11,8 +11,7 @@
 
 🤖 АЛЬТЕРНАТИВА ДЛЯ НОВИЧКОВ
 Не разбираетесь в ручной установке? Есть удобный бот-аналог!
-Достаточно купить подписку и пользоваться: https://t.me/toprevbot
-
+Достаточно купить подписку и пользоваться: https://t.me/hajaksubot
 # АКТУАЛЬНЫЙ БОТ И МЕНЕДЖЕР, ЕСЛИ ЗАБЛОКИРУЮТ = https://spiderrevenge.ru/
 
 ![photo_2025-12-17_13-29-30](https://github.com/user-attachments/assets/007ebaee-5118-478d-b06f-a7b7e990c55e)
@@ -37,6 +36,4 @@
 - cd snoser_spider
 - pip install colored pystyle
 - Запуск : python3 snoser_mod.py
-
-- Переходник в канал проектов : https://t.me/revengezerkalo
 - Good Luck!
