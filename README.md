@@ -2,7 +2,7 @@
 - Демонстрация работы: https://youtube.com/shorts/kMdeuHGSmKE
 - Демонстрация работы: https://www.youtube.com/watch?v=ipCEmg1hhWk&t=125s
 - Демонстрация работы: https://www.youtube.com/watch?v=kZnpFRykwiQ
-- Снос аккаунтов от Revenge: https://t.me/revengeworks
+- Снос аккаунтов от Revenge: https://t.me/rvngeworks
 - Менеджер для вопросов и техническая поддержка для тех, кто использует платный инструмент: https://t.me/m/LuLa_d3OZGI0
 
 🛒 Как приобрести?
